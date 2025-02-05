@@ -4,7 +4,7 @@ import json  # Import json for JSON operations
 import requests
 
 # Update with your Gemini API key
-GEMINI_API_KEY = "AIzaSyAxWeCoz2DvnYl0DvjIfaO2lUKTF5MIbdE"
+GEMINI_API_KEY = "YOUR-API KEY- HERE"
 
 # Function to load sales data
 def load_sales_data(file_path):
